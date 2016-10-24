@@ -401,12 +401,12 @@ iframe {
 .ancho_menu_paginas{width: 970px;}
 
 .menu:link{
-color: #000;
+color: #fff;
 text-decoration: none;
 }
 
 .menu:visited{
-color: #FFF;
+color: #fff;
 text-decoration: none;
 }
 
