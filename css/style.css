@@ -391,6 +391,10 @@ form {
 font-size: 12px;
 }
 
+iframe {
+    padding-bottom: 40px;
+}
+
 /*CLASES*/
 
 .ancho_menu_home{width: 900px;}
@@ -544,3 +548,5 @@ font-size: 10px;
 text-align: left;
 padding-top: 15px;
 }
+
+
